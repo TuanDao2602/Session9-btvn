@@ -1,3 +1,6 @@
+package bai1;
+
+import bai1.NextDayCalculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
